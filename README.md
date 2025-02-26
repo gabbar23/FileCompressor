@@ -1,4 +1,6 @@
-Compressing data in C++ using wxWidgets.
+#Object-Oriented Programming Project (DAV University)
+
+##Compressing data in C++ using wxWidgets.
 
 ## Project Overview
 
