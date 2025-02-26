@@ -1,6 +1,6 @@
-#Object-Oriented Programming Project (DAV University)
+# Object-Oriented Programming Project (DAV University)
 
-##Compressing data in C++ using wxWidgets.
+## Compressing data in C++ using wxWidgets.
 
 ## Project Overview
 
